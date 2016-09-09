@@ -1,1 +1,6 @@
 c:\users\wecancodeit\documents\visual studio 2015\Projects\DayThreeOddNumbers\DayThreeOddNumbers\bin\Debug\DayThreeOddNumbers.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DayThreeOddNumbers\DayThreeOddNumbers\bin\Debug\DayThreeOddNumbers.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DayThreeOddNumbers\DayThreeOddNumbers\bin\Debug\DayThreeOddNumbers.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DayThreeOddNumbers\DayThreeOddNumbers\obj\Debug\DayThreeOddNumbers.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DayThreeOddNumbers\DayThreeOddNumbers\obj\Debug\DayThreeOddNumbers.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DayThreeOddNumbers\DayThreeOddNumbers\obj\Debug\DayThreeOddNumbers.pdb

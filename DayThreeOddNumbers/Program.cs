@@ -10,6 +10,11 @@ namespace DayThreeOddNumbers
     {
         static void Main(string[] args)
         {
+            int counter;
+            for (counter = 1; counter <= 99; counter += 2)
+            {
+                System.Console.WriteLine(counter);
+            }
         }
     }
 }
